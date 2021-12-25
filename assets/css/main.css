@@ -580,3 +580,13 @@ strong {
 	color: #fff;
 	padding: 5rem 0;
 }
+
+/* phone */
+
+.phone {
+	transition: var(--time) opacity;
+}
+
+.phone:hover {
+	opacity: 0.8;
+}
