@@ -114,6 +114,10 @@
 	.footer__copyright {
 		margin-left: auto;
 	}
+
+	.slider__pagination {
+		justify-content: center;
+	}
 }
 
 
