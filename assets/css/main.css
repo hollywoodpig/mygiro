@@ -595,8 +595,8 @@ strong {
 /* anchor */
 
 .anchor {
-	width: 8rem;
-	height: 8rem;
+	width: 10rem;
+	height: 10rem;
 	border-radius: 50%;
 	display: flex;
 	justify-content: center;
@@ -605,8 +605,8 @@ strong {
 	box-shadow: var(--shadow);
 	border: 1px solid var(--border-color);
 	position: fixed;
-	right: 10rem;
-	bottom: 10rem;
+	right: 6rem;
+	bottom: 6rem;
 	z-index: 3;
 }
 
