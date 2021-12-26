@@ -555,7 +555,8 @@ strong {
 		padding: 20rem 0;
 	}
 	
-	#about .section__heading {
+	#about .section__heading,
+	#about .section__heading .text-muted {
 		color: #fff;
 	}
 
