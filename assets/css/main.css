@@ -222,6 +222,10 @@ strong {
 	justify-content: space-between;
 }
 
+.inline_sm {
+	column-gap: 2rem;
+}
+
 /* btn */
 
 .btn {
@@ -515,10 +519,6 @@ strong {
 	display: grid;
 	align-content: start;
 	gap: 2rem;
-}
-
-.newsletter__form .btn {
-	justify-self: start;
 }
 
 /* input */

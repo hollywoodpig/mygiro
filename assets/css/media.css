@@ -135,6 +135,10 @@
 	.section__line {
 		display: none;
 	}
+
+	.newsletter__form .btn {
+		justify-self: start;
+	}
 }
 
 /* md */
